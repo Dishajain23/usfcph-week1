@@ -7,3 +7,9 @@ push and pull
 branch- my file's sub folders
 merge+rebase+squash = 
 pull request green and red to track. 
+
+
+GIT+Ecosystem
+Java script
+iNTRO TO Programming language
+Back end fundamentals 
